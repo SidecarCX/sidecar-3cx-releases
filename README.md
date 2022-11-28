@@ -1,1 +1,1 @@
-# SignalMerit 3CX Releases
+# Sidecar CX 3CX Releases
